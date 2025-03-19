@@ -187,3 +187,4 @@ C:\Users\p_dha\source\repos\Mercator_SauceDemoTask\obj\Debug\net6.0\Mercator_Sau
 C:\Users\p_dha\source\repos\Mercator_SauceDemoTask\obj\Debug\net6.0\Mercator_SauceDemoTask.genruntimeconfig.cache
 C:\Users\p_dha\source\repos\Mercator_SauceDemoTask\obj\Debug\net6.0\ref\Mercator_SauceDemoTask.dll
 C:\Users\p_dha\source\repos\Mercator_SauceDemoTask\bin\Debug\net6.0\appsettings.json
+C:\Users\p_dha\source\repos\Mercator_SauceDemoTask\obj\Debug\net6.0\Mercator_SauceDemoTask.sourcelink.json

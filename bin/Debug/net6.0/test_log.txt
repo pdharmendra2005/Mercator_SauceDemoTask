@@ -76,3 +76,8 @@
 3/18/2025 11:48:36 PM: Selected the highest priced item
 3/18/2025 11:48:36 PM: Added the selected item to the cart
 3/18/2025 11:48:36 PM: Item is in cart: True
+3/19/2025 11:23:38 AM: Navigated to the Sauce Demo website
+3/19/2025 11:23:38 AM: Logged in with username standard_user and password secret_sauce
+3/19/2025 11:23:38 AM: Selected the highest priced item
+3/19/2025 11:23:38 AM: Added the selected item to the cart
+3/19/2025 11:23:38 AM: Item is in cart: True
