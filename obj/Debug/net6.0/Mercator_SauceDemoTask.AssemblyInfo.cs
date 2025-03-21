@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mercator_SauceDemoTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee4840ca691b4140931ea72a2ed25fc829570f12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49e59dc85d3ea01cc4bfb8ce6bf40b6fa33e23d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mercator_SauceDemoTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mercator_SauceDemoTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

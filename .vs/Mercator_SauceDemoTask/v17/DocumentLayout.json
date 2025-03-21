@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:mercator_saucedemotask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\features\\shoppingcart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:features\\shoppingcart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\features\\shoppingcart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:features\\shoppingcart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\stepdefinitions\\shoppingcartsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:stepdefinitions\\shoppingcartsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\hooks\\scenariohooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:hooks\\scenariohooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|c:\\users\\p_dha\\onedrive\\desktop\\mercator_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EC39A2B-4810-4E63-8AF7-5499FC660BF2}|Mercator_SauceDemoTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mercator_SauceDemoTask",
-              "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Mercator_SauceDemoTask.csproj",
-              "RelativeDocumentMoniker": "Mercator_SauceDemoTask.csproj",
-              "ToolTip": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Mercator_SauceDemoTask.csproj",
-              "RelativeToolTip": "Mercator_SauceDemoTask.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T22:56:54.815Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -59,7 +54,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:49:18.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScenarioHooks.cs",
+              "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Hooks\\ScenarioHooks.cs",
+              "RelativeDocumentMoniker": "Hooks\\ScenarioHooks.cs",
+              "ToolTip": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Hooks\\ScenarioHooks.cs",
+              "RelativeToolTip": "Hooks\\ScenarioHooks.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:06:25.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mercator_SauceDemoTask.csproj",
+              "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Mercator_SauceDemoTask.csproj",
+              "RelativeDocumentMoniker": "Mercator_SauceDemoTask.csproj",
+              "ToolTip": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Mercator_SauceDemoTask.csproj",
+              "RelativeToolTip": "Mercator_SauceDemoTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T22:56:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -72,33 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ShoppingCart.feature",
               "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Features\\ShoppingCart.feature",
               "RelativeDocumentMoniker": "Features\\ShoppingCart.feature",
               "ToolTip": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\Features\\ShoppingCart.feature",
               "RelativeToolTip": "Features\\ShoppingCart.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
               "WhenOpened": "2025-03-20T21:57:08.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "specflow.json",
               "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\specflow.json",
               "RelativeDocumentMoniker": "specflow.json",
               "ToolTip": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\specflow.json",
               "RelativeToolTip": "specflow.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-20T22:09:29.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ShoppingCartSteps.cs",
               "DocumentMoniker": "C:\\Users\\p_dha\\OneDrive\\Desktop\\Mercator_Task\\StepDefinitions\\ShoppingCartSteps.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\ShoppingCartSteps.cs",
