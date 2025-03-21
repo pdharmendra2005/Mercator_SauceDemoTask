@@ -1,0 +1,22 @@
+//{
+//  "bindingCulture": {
+//    "language": "en-US"
+//  },
+//  "language": {
+//    "feature": "en-US"
+//  },
+//  "plugins": [
+//    {
+//      "name": "SpecFlow.MsTest",
+//      "type": "Runtime"
+//    },
+//    {
+//      "name": "SpecFlow.DependencyInjection",
+//      "type": "Runtime"
+//    }
+//  ],
+//  "container": {
+//    "type": "BoDi"
+//  }
+//}
+

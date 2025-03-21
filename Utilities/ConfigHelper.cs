@@ -20,5 +20,10 @@ namespace Mercator_SauceDemoTask.Utilities
         {
             return _config[$"AppSettings:{key}"];
         }
+
+        public static bool GetBoolSetting(string key)
+        {
+            return bool.Parse(_config[$"AppSettings:{key}"]);
+        }
     }
 }

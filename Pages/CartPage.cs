@@ -29,5 +29,11 @@ namespace Mercator_SauceDemoTask.Pages
         {
             _driver.FindElement(By.ClassName("shopping_cart_badge")).Click();
         }
+
+        public void RemoveProductFromCart(string productName)
+        {
+            var removeButton = _driver.FindElement(By.XPath($"//div[text()='{productName}']/ancestor::div[@class='cart_item']//button[text()='Remove']"));
+            removeButton.Click();
+        }
     }
 }
